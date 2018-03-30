@@ -1,1 +1,4 @@
-# -剑指 offer-python-
+#  剑指 offer (python 代码实现)
+
+
+>  这个仓库用于练习剑指offer上的算法题目，全部用python进行实现，当前上传的代码均通过所有测试用例。
